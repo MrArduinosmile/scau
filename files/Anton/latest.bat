@@ -1,4 +1,3 @@
 @echo off
-echo Hej Anton!
-echo Det fungerade!
+start http://youtube.com/
 pause
